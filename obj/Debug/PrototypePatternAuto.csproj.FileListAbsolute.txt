@@ -1,0 +1,7 @@
+C:\Users\54926\source\repos\PrototypePatternAuto\PrototypePatternAuto\bin\Debug\PrototypePatternAuto.exe.config
+C:\Users\54926\source\repos\PrototypePatternAuto\PrototypePatternAuto\bin\Debug\PrototypePatternAuto.exe
+C:\Users\54926\source\repos\PrototypePatternAuto\PrototypePatternAuto\bin\Debug\PrototypePatternAuto.pdb
+C:\Users\54926\source\repos\PrototypePatternAuto\PrototypePatternAuto\obj\Debug\PrototypePatternAuto.csproj.AssemblyReference.cache
+C:\Users\54926\source\repos\PrototypePatternAuto\PrototypePatternAuto\obj\Debug\PrototypePatternAuto.csproj.CoreCompileInputs.cache
+C:\Users\54926\source\repos\PrototypePatternAuto\PrototypePatternAuto\obj\Debug\PrototypePatternAuto.exe
+C:\Users\54926\source\repos\PrototypePatternAuto\PrototypePatternAuto\obj\Debug\PrototypePatternAuto.pdb
